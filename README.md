@@ -69,11 +69,11 @@ Focus areas:
 
 ---
 
-### Python AI Chatbot — Learning-Oriented Assistant
+### AI Chatbot — Learning-Oriented Assistant
 **Type:** Exploratory learning initiative  
 **Context:** Controlled conversational AI for structured learning  
 
-A Python-based AI chatbot designed to support guided learning use cases, with an
+AI chatbot designed to support guided learning use cases, with an
 emphasis on intentional interaction design rather than open-ended conversation.
 
 Focus areas:
@@ -84,18 +84,6 @@ Focus areas:
 
 ---
 
-## How this repository fits into the broader view
-
-This repository focuses on **what has been delivered and owned**.
-
-- Analytical framing and discovery are documented in  
-  `enterprise-ai-discovery-kit`
-- Autonomy and decision boundaries are documented in  
-  `agentic-decision-boundaries`
-- Governance and control mechanisms are documented in  
-  `ai-governance-by-design`
-- Outcome behavior and tradeoffs are analyzed separately in anonymized  
-  `enterprise-ai-case-studies`
 
 Together, these repositories provide a system-level view of enterprise AI—from
 analysis and design through delivery and real-world behavior.
